@@ -9,7 +9,7 @@
 
 [Termux](https://termux.dev) is an Android terminal application and Linux environment.
 
-Note that this repository is for the app itself (the user interface and the terminal emulation). For the packages installable inside the app, see [termux/termux-packages](https://github.com/termux/termux-packages).
+Note that this repository is for the app itself (the user interface and the terminal emulation). For the packages installable inside the application, see [termux/termux-packages](https://github.com/termux/termux-packages).
 
 Quick how-to about Termux package management is available at [Package Management](https://github.com/termux/termux-packages/wiki/Package-Management). It also has info on how to fix **`repository is under maintenance or down`** errors when running `apt` or `pkg` commands.
 
